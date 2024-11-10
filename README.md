@@ -2,7 +2,14 @@
 Liu, T.T., Granovetter, M.C., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Cross-sectional and longitudinal changes in category-selectivity in  visual cortex following pediatric cortical resection. 
 
 	1.	MATLAB Scripts
-This folder contains MATLAB scripts used for data analysis, including statistical analysis and visualization.
+This folder contains MATLAB scripts used for data analysis, including statistical analysis and visualization. 
+
+	•	Required additional functions:  
+'fdr_bh'
+Version 2.3.0.0 (8.83 KB) by David Groppe
+Benjamini & Hochberg/Yekutieli false discovery rate control procedure for a set of statistical testsToolboxes.
+https://www.mathworks.com/matlabcentral/fileexchange/27418-fdr_bh
+
 
 	2.	Source Behavioral and fMRI Data
  
